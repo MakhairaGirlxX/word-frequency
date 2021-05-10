@@ -23,4 +23,6 @@ https://user-images.githubusercontent.com/83840115/117707555-4ffa1e00-b194-11eb-
 
 https://user-images.githubusercontent.com/83840115/117707556-4ffa1e00-b194-11eb-9238-878679b4df04.png
 
+https://user-images.githubusercontent.com/83840115/117707558-5092b480-b194-11eb-8fe7-9493d42112af.png
+
 Sequence Diagram to show how "Get File & Analyze" works:
