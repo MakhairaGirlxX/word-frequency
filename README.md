@@ -15,5 +15,8 @@ DataHandler--converts a text file to an ArrayList and reads the file.
 Note* User needs to create their own .txt file to be called. This program was created using Eclipse in java.
 
 Screenshots:
+https://user-images.githubusercontent.com/83840115/117707546-4ec8f100-b194-11eb-8ab1-a911eb67b762.png
+
+
 
 Sequence Diagram to show how "Get File & Analyze" works:
