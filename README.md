@@ -17,6 +17,6 @@ Note* User needs to create their own .txt file to be called. This program was cr
 Screenshots:
 https://user-images.githubusercontent.com/83840115/117707546-4ec8f100-b194-11eb-8ab1-a911eb67b762.png
 
-
+https://user-images.githubusercontent.com/83840115/117707552-4ffa1e00-b194-11eb-9db7-7f1116320b10.png
 
 Sequence Diagram to show how "Get File & Analyze" works:
